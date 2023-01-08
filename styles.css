@@ -1,5 +1,4 @@
 
-
 body{
     background-color: rgb(10, 10, 10);
     color: orange;
@@ -8,14 +7,7 @@ body{
 .container-fluid{
     background-color:rgb(10,10,10);
     color: orange;
-    margin: 1px solid orange;
 }
-
-.nav{
-    margin: 1px solid orange;
-}
-
-
 
 a{
     display:flex;
@@ -98,7 +90,6 @@ nav{
     align-items: center;
     height:50px;
     background-color: black;
-    margin:solid 5px  orange;
 }
 
 footer{
@@ -129,7 +120,7 @@ padding-top: 5em;
 }
 
 .form-btn{
-    padding-top: 0em;
+    padding-top: 0;
     margin:1em;
     }
 
